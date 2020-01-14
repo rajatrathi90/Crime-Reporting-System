@@ -2,6 +2,7 @@
 The Online crime reporting system which is a Web application designed in PHP  which aims to provide crime management solutions such as filing of FIR  and checking its status accessible to everyone
 
 We created a website with 4 functionalities which includes login pages for user, police in charge, station in charge and police headquarters
+
 • User can register and login and a file a complaint using Aadhar card
 
 • The case was then assigned randomly to a police officer of the nearest police station
